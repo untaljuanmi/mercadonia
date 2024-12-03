@@ -1,0 +1,10 @@
+:host {
+  display: block;
+}
+
+.user-profile {
+  border-radius: 3rem;
+  width: 3rem;
+  height: 3rem;
+  font-size: 2rem;
+}

@@ -1,3 +1,8 @@
 {
-  "cSpell.words": ["mercadonia"]
+  "cSpell.words": ["mercadonia"],
+  "angular-schematics.schematicsDefaultOptions": {
+    "angular-*": {
+      "externalTemplate": true
+    }
+  }
 }
